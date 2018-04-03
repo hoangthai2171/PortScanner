@@ -1,0 +1,7 @@
+C:\Users\Thai\source\repos\CheckPortStatus\CheckPortStatus\bin\Debug\CheckPortStatus.exe.config
+C:\Users\Thai\source\repos\CheckPortStatus\CheckPortStatus\bin\Debug\CheckPortStatus.exe
+C:\Users\Thai\source\repos\CheckPortStatus\CheckPortStatus\bin\Debug\CheckPortStatus.pdb
+C:\Users\Thai\source\repos\CheckPortStatus\CheckPortStatus\obj\Debug\CheckPortStatus.csprojResolveAssemblyReference.cache
+C:\Users\Thai\source\repos\CheckPortStatus\CheckPortStatus\obj\Debug\CheckPortStatus.csproj.CoreCompileInputs.cache
+C:\Users\Thai\source\repos\CheckPortStatus\CheckPortStatus\obj\Debug\CheckPortStatus.exe
+C:\Users\Thai\source\repos\CheckPortStatus\CheckPortStatus\obj\Debug\CheckPortStatus.pdb
